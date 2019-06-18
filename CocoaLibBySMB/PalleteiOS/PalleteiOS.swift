@@ -10,7 +10,7 @@ import UIKit
 
 extension UIView {
     
-    func generateColorBy(img: UIImage?, path: String, defaultColor: UIColor?) {
+    public func generateColorBy(img: UIImage?, path: String, defaultColor: UIColor?) {
         //set default color when user is not take default color.
         let _defaultColor: UIColor   = defaultColor ?? .lightGray
         
