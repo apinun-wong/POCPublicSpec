@@ -1,15 +1,15 @@
 //
-//  CocoaLibTests.swift
-//  CocoaLibTests
+//  CocoaLibBySMBTests.swift
+//  CocoaLibBySMBTests
 //
 //  Created by Apinun Wongintawang on 6/19/19.
 //  Copyright © 2019 Apinun Wongintawang. All rights reserved.
 //
 
 import XCTest
-@testable import CocoaLib
+@testable import CocoaLibBySMB
 
-class CocoaLibTests: XCTestCase {
+class CocoaLibBySMBTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
